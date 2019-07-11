@@ -1,0 +1,15 @@
+name: MCBankApp
+version: 1.0
+main: me.MCBankApp.Main
+description: Banking App.
+
+commands:
+ check:
+ login:
+ signup:
+ logout:
+ fund:
+ withdraw:
+ set:
+ get:
+ helpme:
